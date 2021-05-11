@@ -5,11 +5,9 @@
 
 # SPS Demo
 ## Description
-**The SPS Demo is a project for computing the displaying stream data**
+**The SPS Demo takes a server-sent events stream as input and performs processing on it. It sanitizes the data and computes various metrics aggregated over 1 second. 
 
-
-## Architectural and/or Data-flow diagrams 
-![alt text](./diagrams/flow.png "High level flow") 
+The code incorporates easy addition of new sources, processing logic and data sinks.**
 
 
 ## Prerequisite Services/Applications for the service
@@ -27,8 +25,3 @@ Run the project
 ```
 mvn spring-boot:run
 ```
-
-
-### 
-***Note:**
-* This ReadMe is based on 
