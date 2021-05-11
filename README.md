@@ -1,4 +1,4 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ShivikaSodhi/sps-demo/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/ShivikaSodhi/sps-demo/graphs/commit-activity)
 [![PR](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ShivikaSodhi/sps-demo/pulls)
 [![contrib](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/ShivikaSodhi/sps-demo)
 
